@@ -6,7 +6,7 @@
 
 # Sobre o Projeto:
 Pretendemos explorar modelos estatísticos de classificação que permitam identificar mensagens de spam. 
-O conjunto de dados usados corresponde ao **SMS Spam Collection Dataset** disponível no seguinte [link]([https://cursos.alura.com.br/](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). 
+O conjunto de dados usados corresponde ao **SMS Spam Collection Dataset** disponível no seguinte [link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). 
 Esses dados estão em inglês, como primeiro passo traduziremos as mensagens para o português usando python na plataforma [Google Colaboratory](https://colab.research.google.com/).
 O notebook usado é o 
 
